@@ -1,0 +1,5 @@
+body{
+	background-image: url(fichier/couverture.jpg);
+	background-position: cover;
+	background-repeat: no-repeat;
+}
